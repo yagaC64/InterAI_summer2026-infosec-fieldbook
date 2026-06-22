@@ -67,6 +67,7 @@ Bad:
 - [templates/repo-review.md](templates/repo-review.md) - student-safe review template
 - [templates/finding.md](templates/finding.md) - finding format for issues or PR notes
 - [exercises/](exercises/) - short defensive review exercises
+- [AI/roles/](AI/roles/) - public-safe AI role cards for defensive review workflows
 
 ## Safety Bumper
 
