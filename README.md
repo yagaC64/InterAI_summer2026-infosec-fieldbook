@@ -72,6 +72,18 @@ Bad:
 
 If you find something that looks like a real password, token, private key, or personal data, do not paste it into an issue. Report it privately to the instructor or repo owner with the minimum path/context needed to find it.
 
+## License
+
+This fieldbook is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+
+You may share and adapt the original docs, templates, and exercises in this repo, including for classroom, public, or commercial use, as long as you give attribution, link to the license, and indicate if changes were made.
+
+Suggested attribution:
+
+```text
+InterAI Summer 2026 INFOSEC Fieldbook by yagaC64, licensed under CC BY 4.0.
+```
+
 ## Maintainer Notes
 
 This public fieldbook is intentionally separate from private INFOSEC records. Private reports, evidence packs, incident notes, and protected artifacts do not belong here.
