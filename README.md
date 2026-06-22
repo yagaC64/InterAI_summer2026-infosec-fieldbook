@@ -64,6 +64,7 @@ Bad:
 - [docs/standards-map.md](docs/standards-map.md) - short map from class review tasks to NIST, OWASP, and CIS references
 - [docs/review-process.md](docs/review-process.md) - step-by-step class review workflow
 - [docs/evidence-handling.md](docs/evidence-handling.md) - public-safe evidence rules
+- [docs/glossary.md](docs/glossary.md) - student-friendly acronym and security-term glossary
 - [templates/repo-review.md](templates/repo-review.md) - student-safe review template
 - [templates/finding.md](templates/finding.md) - finding format for issues or PR notes
 - [exercises/](exercises/) - short defensive review exercises
