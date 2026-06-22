@@ -1,0 +1,21 @@
+._*
+.DS_Store
+
+# Local configuration and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependency/build output
+node_modules/
+dist/
+build/
+.cache/
+.pytest_cache/
+__pycache__/
+
+# Protected local validation evidence
+tests/test_results/protected/
